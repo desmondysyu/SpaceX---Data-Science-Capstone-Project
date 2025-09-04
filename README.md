@@ -1,11 +1,8 @@
-# SpaceX Launch Success Prediction 🚀
-
-This project analyzes SpaceX launch data to predict the likelihood of a successful rocket landing.  
-As part of my IBM Data Science Professional Certificate, I used Python, machine learning, and data visualization to explore patterns in launch outcomes and build predictive models.
-
-# 📌 Overview
+# 🚀 SpaceX Launch Success Prediction Overview
 
 This project was completed as part of the IBM Data Science Professional Certificate. The goal was to analyze and predict SpaceX Falcon 9 rocket launches, focusing on the success rate of first-stage landings.
+
+As part of my IBM Data Science Professional Certificate, I used Python, machine learning, and data visualization to explore patterns in launch outcomes and build predictive models.
 
 # 🎯 Objectives
 
@@ -45,7 +42,7 @@ Models tested: Logistic Regression, Decision Trees, Support Vector Machines, K-N
 
 Evaluated performance using accuracy, precision, and recall.
 
-Best-performing model: Logistic Regression at 83% accuracy.
+Best-performing model: Logistic Regression at 83% accuracy (see Lab 8 - Machine Learning).
 
 # 📈 Results
 
